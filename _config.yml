@@ -1,16 +1,16 @@
-typography_spectrum: 0.1056235225405544
+layout_spectrum: 0.9268017890863121
+typography_spectrum: 0.07484253076836467
 color:
-  brandStrength: 0.3553201511967927
-  lightness: 0.3794684340246022
-  saturation: 0.6816225913353264
-  rhythmicContrast: 0.5346299132797867
+  brandStrength: 0.4236874799244106
+  lightness: 0.8905266313813627
+  saturation: 0.1594988175202161
+  rhythmicContrast: 0.7570899603888392
   brandColors:
-    - '#849D41'
-    - '#E3CDE4'
-    - '#994717'
-    - '#252122'
-    - '#BD1A8D'
-layout_spectrum: 0.009437795961275697
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 author:
   name: Denise Howell
   email: denise@howell.net
