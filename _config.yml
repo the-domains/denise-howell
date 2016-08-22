@@ -17,5 +17,9 @@ author:
   url: ''
 logo: null
 name: denise howell
+navigation:
+  - name: elsewhere
+    id: 5e4e57ee-1550-47e6-a835-b7b7728ae30f
+    type: content
 title: DENISE HOWELL
 description: 'internet and technology law.  host, This WEEK in LAW.'
