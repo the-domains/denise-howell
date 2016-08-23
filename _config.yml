@@ -1,23 +1,39 @@
-typography_spectrum: 0.5606185481883585
+title: DENISE HOWELL
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 'internet and technology lawyer. host, This WEEK in LAW.'
 color:
+  saturation: 0.4931590708438307
   brandStrength: 0.8921513366512954
   lightness: 0.6345736412331462
-  saturation: 0.4931590708438307
-  rhythmicContrast: 0.6475135709624738
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.47812435310333967
+    - '#B5DBE5'
+    - '#9A9C97'
+    - '#254B8A'
+    - '#767F7C'
+    - '#46BBD1'
+  rhythmicContrast: 0.6475135709624738
+navigation:
+  - name: elsewhere
+    id: 5e4e57ee-1550-47e6-a835-b7b7728ae30f
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d98b6f5-dfb0-4ca2-9720-c4bde9e31da5.ico
 author:
   name: Denise Howell
   email: denise@howell.net
   url: ''
+name: 'don''t lawyer up, lawyer down'
 logo: null
-name: lawyering down so you don't need to lawyer up
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d98b6f5-dfb0-4ca2-9720-c4bde9e31da5.ico
-title: DENISE HOWELL
-description: 'internet and technology lawyer. host, This WEEK in LAW.'
+typography_spectrum: 0.5606185481883585
+layout_spectrum: 0.4781243531033397
