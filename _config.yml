@@ -26,6 +26,9 @@ navigation:
   - name: elsewhere
     id: b4224666-7d5e-437d-824e-e38d063427a4
     type: content
+  - name: CC
+    id: c0e3482c-9953-48b4-8311-6ef28d1df0cd
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d98b6f5-dfb0-4ca2-9720-c4bde9e31da5.ico
 collections:
