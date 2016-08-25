@@ -23,6 +23,9 @@ navigation:
   - name: contact
     id: 5c36916c-5cad-4679-b053-67189528b3f7
     type: content
+  - name: elsewhere
+    id: b4224666-7d5e-437d-824e-e38d063427a4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d98b6f5-dfb0-4ca2-9720-c4bde9e31da5.ico
 collections:
