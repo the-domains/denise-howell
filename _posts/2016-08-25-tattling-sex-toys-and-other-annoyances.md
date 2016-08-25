@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-25T05:25:50.535Z'
+sourcePath: _posts/2016-08-25-tattling-sex-toys-and-other-annoyances.md
+author: []
+via: {}
+dateModified: '2016-08-25T05:25:41.130Z'
+title: Tattling sex toys and other annoyances
+publisher: {}
 description: >-
   I suggest you join us Friday for This WEEK in LAW if it’s not already firm on
   your calendar. Back by popular demand is First Amendment and IP lawyer Marc
@@ -7,15 +14,8 @@ description: >-
   show. From “turning the American justice system into little more than computer
   programming problem,” to the short half-life of Pokemon Uranium, to updates on
   the legal woes of Axanar and podcasting, to the interplay between trolling and
-  free speech…we have much to discuss! 
-dateModified: '2016-08-25T05:22:19.822Z'
-datePublished: '2016-08-25T05:22:41.086Z'
-title: Tattling sex toys and other annoyances
-author: []
-publisher: {}
-via: {}
+  free speech…we have much to discuss!
 starred: false
-sourcePath: _posts/2016-08-25-tattling-sex-toys-and-other-annoyances.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -25,9 +25,9 @@ _type: MediaObject
 # Tattling sex toys and other annoyances
 ![Cool cat Marc Randazza will join us for Friday's TWiL](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ccdcbcb-fb94-40e3-b731-1aabf8cdb306.jpg)
 
-I suggest you join us Friday for [This WEEK in LAW][0] if it's not already firm on your calendar. Back by popular demand is First Amendment and IP lawyer [Marc Randazza][1]. My stupendous co-hosts [Mike Keyes][2] and [Emory Roane][3] will be there too, and we have a particularly wide-ranging [list of topics][4] we're pondering for the show. From "[turning the American justice system into little more than computer programming problem][5]," to the [short half-life][6] of Pokemon Uranium, to updates on the legal woes of [Axanar][7] and [podcasting][8], to the interplay between trolling and free speech...we have much to discuss! 
+I suggest you join us Friday for [This WEEK in LAW][0] if it's not already firm on your calendar. Back by popular demand is First Amendment and IP lawyer [Marc Randazza][1]. My stupendous co-hosts [Mike Keyes][2] and [Emory Roane][3] will be there too, and we have a particularly wide-ranging [list of topics][4] we're pondering for the show. From "[turning the American justice system into little more than computer programming problem][5]," to the [short half-life][6] of Pokemon Uranium, to updates on the legal woes of [Axanar][7] and [podcasting][8], to the interplay between trolling and free speech...we have much to discuss!
 
-[Join us live][9] 8/26/16, 11 PT/18:00 UTC. 
+[Join us live][9] 8/26/16, 11 PT/18:00 UTC.
 
 [0]: http://twit.tv/twil "TWiL"
 [1]: http://randazza.com/marc-j-randazza/ "Marc Randazza"
