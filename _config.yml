@@ -24,6 +24,9 @@ navigation:
   - name: elsewhere
     id: b4224666-7d5e-437d-824e-e38d063427a4
     type: content
+  - name: other places
+    id: 5e4e57ee-1550-47e6-a835-b7b7728ae30f
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d98b6f5-dfb0-4ca2-9720-c4bde9e31da5.ico
 collections:
