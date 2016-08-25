@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-25T05:46:25.871Z'
+datePublished: '2016-08-25T05:48:34.770Z'
 sourcePath: _posts/2016-08-25-tattling-sex-toys-and-other-annoyances.md
 inFeed: false
 author: []
 via: {}
-dateModified: '2016-08-25T05:46:25.427Z'
+dateModified: '2016-08-25T05:48:34.296Z'
 title: Tattling sex toys and other annoyances
 publisher: {}
 description: Cool cat Marc Randazza will join us for Friday's TWiL
