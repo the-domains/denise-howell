@@ -5,12 +5,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: 'internet and technology lawyer. host, This WEEK in LAW.'
 color:
   saturation: 0.4931590708438307
@@ -43,5 +43,5 @@ author:
   email: denise@howell.net
   url: ''
 logo: null
-typography_spectrum: 0.4737156
+typography_spectrum: 0.4462365
 layout_spectrum: 0.4781243531033397
