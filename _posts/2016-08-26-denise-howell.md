@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T16:35:28.140Z'
+datePublished: '2016-08-26T16:36:04.223Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T16:34:46.666Z'
+dateModified: '2016-08-26T16:36:03.643Z'
 title: Denise Howell
 publisher: {}
 description: >-
@@ -13,8 +13,8 @@ description: >-
   licensing.  I authored one of the first law-related weblogs (and coined the
   term “blawg” — sue me),  I host This WEEK in LAW, a weekly panel discussion
   about technology law on the TWiT network, and have done so since 2006.  
-starred: false
 sourcePath: _posts/2016-08-26-denise-howell.md
+starred: false
 url: denise-howell/index.html
 _type: Blurb
 
