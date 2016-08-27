@@ -1,15 +1,25 @@
 ---
-datePublished: '2016-08-26T15:53:46.512Z'
+datePublished: '2016-08-26T15:57:59.887Z'
 sourcePath: _posts/2016-08-25-tattling-sex-toys-and-other-annoyances.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T15:53:46.032Z'
+dateModified: '2016-08-26T15:57:59.491Z'
 title: Tattling sex toys and other annoyances
 publisher: {}
-description: Cool cat Marc Randazza will join us for Friday's TWiL
+description: >-
+  I suggest you join us Friday for This WEEK in LAW if it’s not already firm on
+  your calendar. Back by popular demand is First Amendment and IP lawyer Marc
+  Randazza. My stupendous co-hosts Mike Keyes and Emory Roane will be there too,
+  and we have a particularly wide-ranging list of topics we’re pondering for the
+  show. From “turning the American justice system into little more than computer
+  programming problem,” to the short half-life of Pokemon Uranium, to updates on
+  the legal woes of Axanar and podcasting, to the interplay between trolling and
+  free speech…we have much to discuss!
 starred: false
-_type: Blurb
+url: tattling-sex-toys-and-other-annoyances/index.html
+_type: Article
 
 ---
 # Tattling sex toys and other annoyances
