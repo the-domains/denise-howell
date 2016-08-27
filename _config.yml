@@ -14,14 +14,14 @@ collections:
 description: 'internet and technology lawyer. host, This WEEK in LAW.'
 color:
   saturation: 0.4402629
-  brandStrength: 0.3076464
+  brandStrength: 0.3160096
   lightness: 1
   brandColors:
-    - '#D7C099'
-    - '#FA8B00'
-    - '#070D15'
-    - '#1F5774'
-    - '#00BBB4'
+    - '#FCFCFA'
+    - '#4F4C67'
+    - '#71293D'
+    - '#A29A8F'
+    - '#F5DA81'
   rhythmicContrast: 0.6123058
 navigation:
   - name: about
@@ -33,8 +33,6 @@ navigation:
   - name: contact
     id: 5c36916c-5cad-4679-b053-67189528b3f7
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d98b6f5-dfb0-4ca2-9720-c4bde9e31da5.ico
 name: >-
   8 out of 10 owners who expressed a preference said their cats preferred this
   lawyer.
@@ -42,6 +40,8 @@ author:
   name: Denise Howell
   email: denise@howell.net
   url: ''
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d98b6f5-dfb0-4ca2-9720-c4bde9e31da5.ico
 logo: null
 typography_spectrum: 0.1391876
 layout_spectrum: 0.4781243531033397
