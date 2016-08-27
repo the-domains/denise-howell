@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-26T20:46:43.953Z'
+datePublished: '2016-08-26T20:48:48.496Z'
+sourcePath: >-
+  _posts/2016-08-26-to-recap-our-animal-selfie-tip-and-resources-of-the-week-f.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T20:46:09.480Z'
+dateModified: '2016-08-26T20:48:47.943Z'
 title: ''
 publisher: {}
 description: >-
   To recap our Animal Selfie, Tip, and Resources of the Week from today’s TWiL
   (Ep. 357, “Swatted While Sex Toy Phoned Home”):
 starred: false
-sourcePath: >-
-  _posts/2016-08-26-to-recap-our-animal-selfie-tip-and-resources-of-the-week-f.md
 url: to-recap-our-animal-selfie-tip-and-resources-of-the-week-f/index.html
 _type: Article
 
