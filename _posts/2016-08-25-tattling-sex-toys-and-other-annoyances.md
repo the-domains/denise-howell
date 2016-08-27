@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-26T15:57:59.887Z'
+datePublished: '2016-08-26T15:59:35.414Z'
 sourcePath: _posts/2016-08-25-tattling-sex-toys-and-other-annoyances.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T15:57:59.491Z'
+dateModified: '2016-08-26T15:59:34.906Z'
 title: Tattling sex toys and other annoyances
 publisher: {}
 description: >-
