@@ -1,4 +1,17 @@
-typography_spectrum: 0.4462365
+title: DENISE HOWELL
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 'internet and technology lawyer. host, This WEEK in LAW.'
 color:
   saturation: 0.4931590708438307
   brandStrength: 0.8921513366512954
@@ -10,15 +23,6 @@ color:
     - '#767F7C'
     - '#46BBD1'
   lightness: 0.6345736412331462
-layout_spectrum: 0.4781243531033397
-author:
-  name: Denise Howell
-  email: denise@howell.net
-  url: ''
-logo: null
-name: >-
-  8 out of 10 owners who expressed a preference said their cats preferred this
-  lawyer.
 navigation:
   - name: about
     id: f82a065a-2c61-4fc9-9615-0f2792325f5c
@@ -31,17 +35,13 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d98b6f5-dfb0-4ca2-9720-c4bde9e31da5.ico
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: DENISE HOWELL
-description: 'internet and technology lawyer. host, This WEEK in LAW.'
+author:
+  name: Denise Howell
+  email: denise@howell.net
+  url: ''
+name: >-
+  8 out of 10 owners who expressed a preference said their cats preferred this
+  lawyer.
+logo: null
+typography_spectrum: 0.1391876
+layout_spectrum: 0.4781243531033397
