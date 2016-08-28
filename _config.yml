@@ -10,6 +10,9 @@ color:
     - '#A29A8F'
     - '#F5DA81'
   rhythmicContrast: 0.6123058
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/b97dd86d-e800-49ba-8a74-617a8f12be84.jpg
 layout_spectrum: 1
 author:
   name: Denise Howell
