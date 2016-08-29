@@ -15,7 +15,7 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/b97dd86d-e800-49ba-8a74-617a8f12be84.jpg
 layout_spectrum: 1
 analytics:
-  google: UA-83224671-1
+  google: null
 author:
   name: Denise Howell
   email: denise@howell.net
