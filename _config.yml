@@ -21,7 +21,7 @@ author:
   email: denise@howell.net
   url: ''
 logo: null
-name: the web's law department
+name: Denise Howell
 navigation:
   - name: about
     id: f82a065a-2c61-4fc9-9615-0f2792325f5c
@@ -46,5 +46,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: DENISE HOWELL
+title: musings of a 'net and tech lawyer
 description: "musings of an internet and technology lawyer. \_host, This WEEK in LAW."
