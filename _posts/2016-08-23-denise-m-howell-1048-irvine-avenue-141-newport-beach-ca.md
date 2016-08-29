@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-27T04:45:58.955Z'
+datePublished: '2016-08-28T08:07:15.522Z'
 sourcePath: _posts/2016-08-23-denise-m-howell-1048-irvine-avenue-141-newport-beach-ca.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T04:45:58.490Z'
+dateModified: '2016-08-28T08:07:15.078Z'
 title: Denise M. Howell
 publisher: {}
 description: ''
@@ -13,7 +13,7 @@ url: denise-m-howell1048-irvine-avenue-141newport-beach-ca-92/index.html
 _type: Blurb
 
 ---
-## Denise M. Howell
+### Denise M. Howell
 
 ### 1048 Irvine Avenue, \#141
 
