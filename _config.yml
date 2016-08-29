@@ -1,4 +1,3 @@
-layout_spectrum: 0.06584785087034106
 typography_spectrum: 0.2712665640283376
 color:
   saturation: 0.4402629
@@ -14,6 +13,7 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/b97dd86d-e800-49ba-8a74-617a8f12be84.jpg
+layout_spectrum: 0.06584785087034106
 analytics:
   google: '83224671'
 author:
@@ -47,4 +47,4 @@ collections:
       format: rss
       number: 10
 title: DENISE HOWELL
-description: 'host, This WEEK in LAW.'
+description: "internet and technology lawyer. \_host, This WEEK in LAW."
