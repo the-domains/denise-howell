@@ -4,8 +4,15 @@
         <description><![CDATA[DENISE HOWELL]]></description>
         <link>http://denisehowell.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 18:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 02:03:09 GMT</lastBuildDate>
         <atom:link href="http://denisehowell.info/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New rules on small drones kick in today: What you need to know]]></title>
+            <description><![CDATA[<article><h1>New rules on small drones kick in today: What you need to know</h1><p>For companies that want to use small drones, a new era began Monday. That's when rules kicked in that free them from having to request special permission from the federal government for any commercial drone endeavor - a waiver process that often took months.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/85031476ee2db4379fa44d9e4c1232a8/noop?input=http%3A%2F%2Fwww.trbimg.com%2Fimg-57c3ac24%2Fturbine%2Fla-fi-drone-rules-20160829-snap"></article>]]></description>
+            <link>http://www.latimes.com/business/la-fi-drone-rules-20160829-snap-htmlstory.html</link>
+            <guid isPermaLink="false">155396d0-977f-46cb-86d6-78ea5abc65f2</guid>
+            <pubDate>Tue, 30 Aug 2016 02:03:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google is Adding a VR Shell to Chrome to Let You Browse the Entire Web in VR - Road to VR]]></title>
             <description><![CDATA[<article><h1>Google is Adding a VR Shell to Chrome to Let You Browse the Entire Web in VR - Road to VR</h1><p>Google is working to add fully immersive browsing capability to Chrome, allowing users to browse any part of the web in VR, not just those sites that are specially built for VR. Google has played an active role in helping to define and deploy ' WebVR', a set of standard capabilities that allow for the creation of VR websites which can serve their content directly to VR headsets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ca2a8d746801922a4f37d1f22d37975/noop.jpg?input=http%3A%2F%2Fwww.roadtovr.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fgoogle-chrome-logo.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://denisehowell.info/if-indyd-had-a-drone/index.html</link>
             <guid isPermaLink="false">a5dcd5c4-66c7-4128-8b57-f100e4387d29</guid>
             <pubDate>Sat, 27 Aug 2016 17:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f2e99f1-b30a-474d-8afc-8a1b34c3d926.jpg">]]></description>
-            <link>http://denisehowell.info/to-recap-our-animal-selfie-tip-and-resources-of-the-week-f/index.html</link>
-            <guid isPermaLink="false">35b01f95-ed86-44ed-be80-5886f3c78923</guid>
-            <pubDate>Sat, 27 Aug 2016 04:04:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
