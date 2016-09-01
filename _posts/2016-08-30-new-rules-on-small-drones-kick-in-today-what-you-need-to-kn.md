@@ -1,22 +1,22 @@
 ---
-title: 'New rules on small drones kick in today: What you need to know'
-datePublished: '2016-08-30T02:03:06.882Z'
-dateModified: '2016-08-30T02:02:58.271Z'
+datePublished: '2016-08-30T02:11:23.467Z'
+sourcePath: >-
+  _posts/2016-08-30-new-rules-on-small-drones-kick-in-today-what-you-need-to-kn.md
+isBasedOnUrl: 'http://www.latimes.com/business/la-fi-drone-rules-20160829-snap-htmlstory.html'
 author:
   - name: Samantha Masunaga
     url: >-
       http://www.latimes.com/business/la-fi-drone-rules-20160829-snap-htmlstory.html
-isBasedOnUrl: 'http://www.latimes.com/business/la-fi-drone-rules-20160829-snap-htmlstory.html'
+via: {}
+dateModified: '2016-08-30T02:11:22.460Z'
+title: 'New rules on small drones kick in today: What you need to know'
+publisher: {}
 description: >-
   For companies that want to use small drones, a new era began Monday. That's
   when rules kicked in that free them from having to request special permission
   from the federal government for any commercial drone endeavor - a waiver
   process that often took months.
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-30-new-rules-on-small-drones-kick-in-today-what-you-need-to-kn.md
 inFeed: true
 hasPage: false
 inNav: false
