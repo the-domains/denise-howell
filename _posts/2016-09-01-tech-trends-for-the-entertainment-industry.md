@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-09-01T03:04:20.925Z'
+datePublished: '2016-09-01T03:25:11.313Z'
 sourcePath: _posts/2016-09-01-tech-trends-for-the-entertainment-industry.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T03:04:09.771Z'
+dateModified: '2016-09-01T03:25:10.037Z'
 title: Tech Trends for the Entertainment Industry
 publisher: {}
 description: >-
   Dianna Labrien has a good piece at tech.co: Blockchain, Virtual Reality, and
   Others Disrupting the Music Industry. The innovations she mentions —
-  blockchain, virtual reality, artificial reality, and blanket licensing models
-  — all are poised to play important roles in the successful futures of music,
-  film, and video.
+  blockchain, virtual reality, artificial intelligence, and blanket licensing
+  models — all are poised to play important roles in the successful futures of
+  music, film, and video.
 starred: false
 url: tech-trends-for-the-entertainment-industry/index.html
 _type: Article
@@ -24,7 +24,7 @@ _type: Article
 ## Using blockchain to kill unauthorized use, VR to increase attendance and engagement, AI to enhance creativity, and blanket licensing to broaden distribution
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1589386d-d706-4cf1-91b8-f194a7949ca9.jpg)
 
-Dianna Labrien has a good piece at [tech.co][0]: [Blockchain, Virtual Reality, and Others Disrupting the Music Industry][1]. The innovations she mentions --- blockchain, virtual reality, artificial reality, and blanket licensing models --- all are poised to play important roles in the successful futures of music, film, and video.
+Dianna Labrien has a good piece at [tech.co][0]: [Blockchain, Virtual Reality, and Others Disrupting the Music Industry][1]. The innovations she mentions --- blockchain, virtual reality, artificial intelligence, and blanket licensing models --- all are poised to play important roles in the successful futures of music, film, and video.
 
 Bonus links, two music labels using innovative licensing strategies to broaden their reach:
 
