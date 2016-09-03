@@ -1,27 +1,27 @@
 ---
-datePublished: '2016-08-28T08:07:15.522Z'
+datePublished: '2016-09-01T00:30:53.495Z'
 sourcePath: _posts/2016-08-23-denise-m-howell-1048-irvine-avenue-141-newport-beach-ca.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T08:07:15.078Z'
-title: Denise M. Howell
+dateModified: '2016-09-01T00:30:46.393Z'
+title: ''
 publisher: {}
-description: ''
+description: Denise M. Howell
 starred: false
 url: denise-m-howell1048-irvine-avenue-141newport-beach-ca-92/index.html
 _type: Blurb
 
 ---
-### Denise M. Howell
+Denise M. Howell
 
-### 1048 Irvine Avenue, \#141
+1048 Irvine Avenue, \#141
 
-### Newport Beach, CA 92660
+Newport Beach, CA 92660
 
-### [denise@howell.net][0]
+[denise@howell.net][0]
 
-### (949) 887-0631
+(949) 887-0631
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39fa6c00-f3dd-42a3-a8fa-e2e63eecf444.jpg)
 
 [0]: mailto:denise@howell.net
