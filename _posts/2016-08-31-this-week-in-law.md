@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T21:03:18.509Z'
+datePublished: '2016-08-31T21:07:13.932Z'
 sourcePath: _posts/2016-08-31-this-week-in-law.md
 isBasedOnUrl: 'https://tagpacker.com/user/thisweekinlaw?t=358'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T21:03:17.929Z'
+dateModified: '2016-08-31T21:07:13.513Z'
 title: This WEEK in LAW
 app_links: []
 publisher: {}
@@ -34,7 +34,7 @@ _type: MediaObject
 # This WEEK in LAW
 
 ## [Friday, September 2, 2016\. 11 PT/18:00 UTC][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b588d19b-c1ec-4bdd-b4a9-547c9204f89e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/faecd5cf-7a1b-430a-89bd-9c11b49a9ad0.jpg)
 
 I'm thrilled to welcome [Professor Margot Kaminski][1] back to [This WEEK in LAW][2] this coming Friday. Professor Kaminski focuses on so many areas we enjoy discussing on the show, including "media freedom, online civil liberties, international intellectual property law, legal issues raised by AI and robotics, and surveillance." Co-host [Mike Keyes][3] and I are excited to see what Professor Kaminski thinks about the new FAA commercial drone rules as well as the legality of shooting drones out of the sky, the return of [Naruto][4] (and [whether courts need to defer to the copyright office on questions of copyrightability][5]), Pokemon Go (real world permits and cyberspace permissions), the Tolkien estate [protects The Precious][6], whether [Frank Ocean's Apple Music exclusive][7] ramped up piracy, and much more. I'm aggregating potential topics on [Flipboard][8] and [Tagpacker][9]; let me know if you have other suggestions!
 
