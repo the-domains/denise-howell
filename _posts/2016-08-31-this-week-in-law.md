@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-31T21:07:13.932Z'
+datePublished: '2016-08-31T21:09:11.319Z'
 sourcePath: _posts/2016-08-31-this-week-in-law.md
-isBasedOnUrl: 'https://tagpacker.com/user/thisweekinlaw?t=358'
+inFeed: true
+hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T21:07:13.513Z'
+dateModified: '2016-08-31T21:08:55.012Z'
 title: This WEEK in LAW
 app_links: []
 publisher: {}
@@ -24,9 +25,7 @@ description: >-
   exclusive ramped up piracy, and much more. I’m aggregating potential topics on
   Flipboard and Tagpacker; let me know if you have other suggestions!
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: this-week-in-law/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
