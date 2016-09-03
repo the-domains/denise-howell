@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T21:13:12.744Z'
+datePublished: '2016-08-31T21:20:51.241Z'
 sourcePath: _posts/2016-08-31-this-week-in-law.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T21:13:12.227Z'
+dateModified: '2016-08-31T21:20:50.761Z'
 title: This WEEK in LAW
 app_links: []
 publisher: {}
