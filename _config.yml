@@ -25,11 +25,11 @@ name: >-
   8 out of 10 owners who expressed a preference said their cats preferred this
   lawyer
 navigation:
-  - name: about
-    id: f82a065a-2c61-4fc9-9615-0f2792325f5c
-    type: content
   - name: elsewhere
     id: b4224666-7d5e-437d-824e-e38d063427a4
+    type: content
+  - name: about
+    id: f82a065a-2c61-4fc9-9615-0f2792325f5c
     type: content
   - name: contact
     id: 5c36916c-5cad-4679-b053-67189528b3f7
