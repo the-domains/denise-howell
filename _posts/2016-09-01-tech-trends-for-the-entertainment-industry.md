@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T03:03:19.742Z'
+datePublished: '2016-09-01T03:04:20.925Z'
 sourcePath: _posts/2016-09-01-tech-trends-for-the-entertainment-industry.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T03:03:18.864Z'
+dateModified: '2016-09-01T03:04:09.771Z'
 title: Tech Trends for the Entertainment Industry
 publisher: {}
 description: >-
