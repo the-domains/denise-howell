@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-31T21:18:11.539Z'
+datePublished: '2016-08-31T21:19:15.183Z'
 sourcePath: >-
   _posts/2016-08-30-paid-dollar75000-to-love-a-brand-on-instagram-but-is-it-an-ad.md
 inFeed: true
 hasPage: true
 author:
   - name: Sapna Maheschwari
+    url: >-
+      http://mobile.nytimes.com/2016/08/30/business/media/instagram-ads-marketing-kardashian.html
 via: {}
-dateModified: '2016-08-31T21:18:11.013Z'
+dateModified: '2016-08-31T21:19:14.701Z'
 title: 'Paid $75,000 to Love a Brand on Instagram. But Is It an Ad?'
 publisher: {}
 description: >-
