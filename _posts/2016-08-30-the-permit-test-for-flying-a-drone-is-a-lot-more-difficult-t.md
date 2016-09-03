@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-30T02:05:01.788Z'
-isBasedOnUrl: >-
-  http://qz.com/769085/the-permit-test-for-flying-a-drone-is-a-lot-more-difficult-than-the-average-us-driving-test/
+datePublished: '2016-09-01T00:31:49.227Z'
+sourcePath: >-
+  _posts/2016-08-30-the-permit-test-for-flying-a-drone-is-a-lot-more-difficult-t.md
+inFeed: true
+hasPage: true
 author:
   - name: Mike Murphy
     url: 'https://qz.com/author/mmurphyqz/'
     avatar: {}
 via: {}
-dateModified: '2016-08-30T02:04:45.243Z'
+dateModified: '2016-09-01T00:31:48.423Z'
 title: >-
   The permit test for flying a drone is a lot more difficult than the average US
   driving test
@@ -18,12 +20,8 @@ description: >-
   now add a new hallmark on the entry into adulthood. Today (Aug. 29), anyone in
   the US can now make money flying drones-assuming they can pass the test.
 starred: false
-sourcePath: >-
-  _posts/2016-08-30-the-permit-test-for-flying-a-drone-is-a-lot-more-difficult-t.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: the-permit-test-for-flying-a-drone-is-a-lot-more-difficult-t/index.html
+_type: Article
 
 ---
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/95dd802f4856bcd61763ba87279c7bc6/noop.jpeg?input=https%3A%2F%2Fi0.wp.com%2Fqzprod.files.wordpress.com%2F2016%2F08%2Fcommercial-drones.jpeg%3Ffit%3D440%252C330%26ssl%3D1" /><h1>The permit test for flying a drone is a lot more difficult than the average US driving test</h1><p>It's a rite of passage in the US, a moment when most teenagers feel that they have found freedom, when they finally pass their driver's test. But there's now add a new hallmark on the entry into adulthood. Today (Aug. 29), anyone in the US can now make money flying drones-assuming they can pass the test.</p></article>
