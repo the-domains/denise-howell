@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-08-31T23:22:58.524Z'
+datePublished: '2016-08-31T23:25:53.869Z'
+sourcePath: >-
+  _posts/2016-08-30-new-rules-on-small-drones-kick-in-today-what-you-need-to-kn.md
 inFeed: true
 hasPage: true
 author:
@@ -7,7 +9,7 @@ author:
     url: >-
       http://www.latimes.com/business/la-fi-drone-rules-20160829-snap-htmlstory.html
 via: {}
-dateModified: '2016-08-31T23:22:57.575Z'
+dateModified: '2016-08-31T23:25:42.562Z'
 title: 'New rules on small drones kick in today: What you need to know'
 id: 155396d0-977f-46cb-86d6-78ea5abc65f2
 publisher: {}
@@ -17,8 +19,6 @@ description: >-
   from the federal government for any commercial drone endeavor - a waiver
   process that often took months.
 starred: false
-sourcePath: >-
-  _posts/2016-08-30-new-rules-on-small-drones-kick-in-today-what-you-need-to-kn.md
 url: new-rules-on-small-drones-kick-in-today-what-you-need-to-kn/index.html
 _type: Article
 
