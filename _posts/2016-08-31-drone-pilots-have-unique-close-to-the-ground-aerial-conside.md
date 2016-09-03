@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T21:09:34.390Z'
+datePublished: '2016-08-31T21:25:19.200Z'
 sourcePath: >-
   _posts/2016-08-31-drone-pilots-have-unique-close-to-the-ground-aerial-conside.md
 inFeed: true
@@ -9,7 +9,7 @@ author:
     url: 'http://www.diyphotography.net/author/udi-tirosh/'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T21:09:33.548Z'
+dateModified: '2016-08-31T21:25:18.626Z'
 title: This is why drones and balloons don't like to play together - DIY Photography
 publisher: {}
 description: >-
