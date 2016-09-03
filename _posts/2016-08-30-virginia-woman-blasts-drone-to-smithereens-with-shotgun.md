@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-31T21:21:57.526Z'
+datePublished: '2016-08-31T23:41:55.214Z'
+sourcePath: _posts/2016-08-30-virginia-woman-blasts-drone-to-smithereens-with-shotgun.md
 inFeed: true
 hasPage: true
 author:
@@ -7,13 +8,12 @@ author:
     url: 'http://www.popularmechanics.com/author/12733/eric-limer/'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T21:21:56.913Z'
+dateModified: '2016-08-31T23:41:54.044Z'
 title: Virginia Woman Blasts Drone 'to Smithereens' with Shotgun
 id: eb678a95-8c56-49a1-9ea8-57c13f35e1b6
 publisher: {}
 description: Hoo boy.
 starred: false
-sourcePath: _posts/2016-08-30-virginia-woman-blasts-drone-to-smithereens-with-shotgun.md
 url: virginia-woman-blasts-drone-to-smithereens-with-shotgun/index.html
 _type: Article
 
