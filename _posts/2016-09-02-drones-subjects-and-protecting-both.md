@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T00:11:59.905Z'
+datePublished: '2016-09-02T00:19:12.850Z'
 sourcePath: _posts/2016-09-02-drones-subjects-and-protecting-both.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T00:11:59.426Z'
+dateModified: '2016-09-02T00:19:12.203Z'
 title: 'Drones, Subjects, and Protecting Both'
 publisher: {}
 description: >-
@@ -31,7 +31,7 @@ _type: Article
 
 Drone pilots have unique, close-to-the-ground aerial considerations to navigate because (for example in the cinematography context) they may need to fly directly into and around obstacles other aircraft can better avoid. In addition to thinking about and planning for this with clients --- which as [this article][1] demonstrates is a wise precaution --- commercial drone operators should pay attention to [insuring against][2] their own loss/damage, and not just the risks their activities may pose to others. Consider too who should bear the expense of insuring particular jobs. The answer may be different if the footage is documenting a wedding or [destined for a blockbuster][3].
 
-\[**Update**:\] Sometimes, the (potentially insurable?) hazard to the drone comes from the cinematic subject herself!
+\[**Update**:\] Sometimes, the hazard to the drone comes from the cinematic subject herself!
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQAMCvkH1AF2PqwZT-wMSD6b3AtmAWaRYI8fca_cDMFDdZE6kefQ0GxosGFSjuoRo4n0ZQRZyBUOtRroi99-GdW22WBpcTUrLkcXno564XvtsbqB9ns3gSA19sZc59a8zFCdFrnvA_zh-_pSmf" style=""></iframe>
 
