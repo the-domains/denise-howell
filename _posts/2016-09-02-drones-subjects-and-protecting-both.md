@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-09-02T00:07:55.683Z'
+datePublished: '2016-09-02T00:11:59.905Z'
+sourcePath: _posts/2016-09-02-drones-subjects-and-protecting-both.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T00:07:02.353Z'
+dateModified: '2016-09-02T00:11:59.426Z'
 title: 'Drones, Subjects, and Protecting Both'
 publisher: {}
 description: >-
@@ -18,7 +19,6 @@ description: >-
   expense of insuring particular jobs. The answer may be different if the
   footage is documenting a wedding or destined for a blockbuster.
 starred: false
-sourcePath: _posts/2016-09-02-drones-subjects-and-protecting-both.md
 url: drones-subjects-and-protecting-both/index.html
 _type: Article
 
