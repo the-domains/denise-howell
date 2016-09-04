@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T23:52:19.434Z'
+datePublished: '2016-09-01T23:55:52.925Z'
 sourcePath: >-
   _posts/2016-08-31-drone-pilots-have-unique-close-to-the-ground-aerial-conside.md
 inFeed: true
@@ -9,7 +9,7 @@ author:
     url: 'http://www.diyphotography.net/author/udi-tirosh/'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T23:52:06.533Z'
+dateModified: '2016-09-01T23:55:52.059Z'
 title: 'Drones, Subjects, and Protecting Both'
 publisher: {}
 description: >-
@@ -29,12 +29,11 @@ _type: Article
 ---
 # Drones, Subjects, and Protecting Both
 
-> I will not be surprised if future contracts with drone operators will include birds, balloons and fireworks coordination clauses.
+> "I will not be surprised if future contracts with drone operators will include birds, balloons and fireworks coordination clauses."
 
-### [Udi Trosh][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9930939-ce09-4ee9-9934-4933343e6c4f.jpg)
 
-Drone pilots have unique, close-to-the-ground aerial considerations to navigate because (for example in the cinematography context) they may need to fly directly into and around obstacles other aircraft can better avoid. In addition to thinking about and planning for this with clients --- which as [this article][1] demonstrates is a wise precaution --- commercial drone operators should pay attention to [insuring against][2] their own loss/damage, and not just the risks their activities may pose to others. Consider too who should bear the expense of insuring particular jobs. The answer may be different if the footage is documenting a wedding or [destined for a blockbuster][3].
+Drone pilots have unique, close-to-the-ground aerial considerations to navigate because (for example in the cinematography context) they may need to fly directly into and around obstacles other aircraft can better avoid. In addition to thinking about and planning for this with clients --- which as [this article][0] demonstrates is a wise precaution --- commercial drone operators should pay attention to [insuring against][1] their own loss/damage, and not just the risks their activities may pose to others. Consider too who should bear the expense of insuring particular jobs. The answer may be different if the footage is documenting a wedding or [destined for a blockbuster][2].
 
 \[**Update**:\] Sometimes, the (potentially insurable?) hazard to the drone comes from the cinematic subject herself!
 
@@ -42,7 +41,6 @@ Drone pilots have unique, close-to-the-ground aerial considerations to navigate 
 
 
 
-[0]: http://www.diyphotography.net/drones-balloons-dont-like-play-together/ "THIS IS WHY DRONES AND BALLOONS DON’T LIKE TO PLAY TOGETHER"
-[1]: http://www.diyphotography.net/drones-balloons-dont-like-play-together/ "This is why drones and balloons don't like to play together"
-[2]: http://www.aig.com/business/insurance/specialty/unmanned-aircraft-solutions "AIG's UAS insurance page"
-[3]: http://skytango.com/drones-in-movies-7-hollywood-movies-filmed-with-drones/ "Drones In Movies: 7 Hollywood Movies Filmed With Drones"
+[0]: http://www.diyphotography.net/drones-balloons-dont-like-play-together/ "This is why drones and balloons don't like to play together"
+[1]: http://www.aig.com/business/insurance/specialty/unmanned-aircraft-solutions "AIG's UAS insurance page"
+[2]: http://skytango.com/drones-in-movies-7-hollywood-movies-filmed-with-drones/ "Drones In Movies: 7 Hollywood Movies Filmed With Drones"
